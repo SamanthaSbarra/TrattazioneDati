@@ -1,7 +1,8 @@
 clear all
 clc
 format long
-%%cambiamento dcjhg ma che devio afiffhdfh non capisco una fava
+%%cambiamento dcjhg ma che devio afiffhdfh non capisco una fava non si
+%%aggiorna
 addpath C:\Users\will\Desktop\Misure\Misure-20180725
 data=importdata('C:\Users\will\Desktop\Misure\Misure-20180725\Allan-20180725-15mW-150mVpk-OpenLoop.DAT',',');
 time=data(:,1);
